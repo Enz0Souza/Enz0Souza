@@ -1,5 +1,5 @@
 ## Hello, I'm Enzo Souza 👋
-- 🔭 I’m currently working on Front-End
+- 🔭 I’m currently working on Back-End
 - 🌱 I’m currently learning C# and Python
 - 📫 How to reach me: Email - enzosouza20077@gmail.com 
 - ⚡ Fun fact: I dream of becoming a game developer
