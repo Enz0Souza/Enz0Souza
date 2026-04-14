@@ -1,7 +1,7 @@
 ## 👨‍💻 Hello, I'm Enzo Souza
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF007F&size=25&center=true&vCenter=true&width=500&lines=Back-End+Developer;Learning+C%23+and+Python;Future+Game+Developer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF007F&size=25&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Learning+C%23+and+Python;Future+Game+Developer;Always+Learning+🚀" />
 </p>
 
 ---
