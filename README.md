@@ -15,11 +15,6 @@
 
 ---
 
-### 👀 Visitors Counter
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEnz0Souza&count_bg=%232EA44F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Visitors Counter" />
-</p>
----
 
 ### 📊 GitHub Stats
 
