@@ -18,7 +18,7 @@
 ### 👀 Visitors Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Enz0Souza&color=2ea44f&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Enz0Souza&color=2ea44f&style=for-the-badge" alt="Visitors Counter" />
 </p>
 
 ---
